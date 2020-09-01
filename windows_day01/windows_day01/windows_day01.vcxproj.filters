@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="windowsday01.cpp">
+    <ClCompile Include="Windows_case01.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
