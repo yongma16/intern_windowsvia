@@ -1,0 +1,2 @@
+C:\github_yma\yma_home\intern_windowsvia\Windows_day04\Debug\Windows_day04.exe
+C:\github_yma\yma_home\intern_windowsvia\Windows_day04\Debug\Windows_day04.pdb
