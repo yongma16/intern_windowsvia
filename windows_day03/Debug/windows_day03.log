@@ -1,0 +1,9 @@
+﻿  windows_day03.cpp
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(30,2): error C2065: “IDC_EDIT_DETALLS”: 未声明的标识符
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(123,22): error C2065: “IDI_SINGLETON”: 未声明的标识符
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(123,2): error C3861: “chSETDLGICONS”: 找不到标识符
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(133,3): error C3861: “chHANDLE_DLGMSG”: 找不到标识符
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(134,3): error C3861: “chHANDLE_DLGMSG”: 找不到标识符
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(136,2): warning C4060: switch 语句没有包含“case”或“default”标签
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(145,2): error C2065: “preinstance”: 未声明的标识符
+C:\github_yma\yma_home\intern_windowsvia\windows_day03\windows_day03.cpp(147,2): error C2065: “IDD_SINGLETON”: 未声明的标识符
